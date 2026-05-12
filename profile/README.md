@@ -1,12 +1,5 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# About Us
+The Henojin Group is an organization active on the internet with a focus on freedom. We pursue creativity and innovation to make the digital society a better place. Our members come from all over the world and are shaping the digital world of the future through software development, knowledge sharing, and community support.
+# Project
+<a href="https://github.com/Henojin/ShimikaTill-Reborn"><img src="https://henojin.com/img/product/ShimikaTill.png" alt="himikaTill"></a>
+<a href="https://github.com/Henojin/VPT-Viewer"><img src="https://henojin.com/img/product/VPT-Viewer.png" alt="VPT-Viewer"></a>
